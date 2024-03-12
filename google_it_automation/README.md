@@ -6,6 +6,10 @@
 ##
  [Verify](https://www.credly.com/badges/77823404-10cb-47aa-bb40-edf6b239a3b3/public_url)
 
+ ## Credentials are reserved and provided by Credly.
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/b7705242-4ca4-452d-8467-68775dc0e881)
+
+
  [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/LVF5M22X5JFT)
  ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/507537c1-9381-45ae-929f-be22d7bb50fb)
 
