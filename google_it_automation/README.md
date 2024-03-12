@@ -7,6 +7,8 @@
  [Verify](https://www.credly.com/badges/77823404-10cb-47aa-bb40-edf6b239a3b3/public_url)
 
  [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/LVF5M22X5JFT)
+ ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/507537c1-9381-45ae-929f-be22d7bb50fb)
+
 
 * This repository written for reference and self-documentation purposes.
 * Contributions always welcome!
