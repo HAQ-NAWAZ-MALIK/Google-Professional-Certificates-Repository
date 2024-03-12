@@ -4,6 +4,10 @@
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/f083e046-3a15-4aff-8056-78ed5729701f) [Verify](https://www.credly.com/earner/earned/badge/67e18e0b-4c54-4522-b031-af0ebce9d2c1)
 
 
+ ## Credentials are reserved and provided by Credly.
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/b7705242-4ca4-452d-8467-68775dc0e881)
+
+
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/2843701c-2169-42a4-ba87-fe1ccaa4321a)
 
 
