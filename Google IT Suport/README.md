@@ -17,6 +17,7 @@ You can verify my certificate of completion on [Credly](https://www.credly.com/b
 
 
 <br>
+ ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/79315cd5-662e-448b-84d3-3ff7654945df)
 
 ### About this Professional Certificate
 
