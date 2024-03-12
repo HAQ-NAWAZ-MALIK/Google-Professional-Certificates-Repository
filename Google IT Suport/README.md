@@ -6,7 +6,7 @@
 
 
 
-![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/155e4ab0-9cc3-4124-ad50-f069f0f3212b) [verify](hhttps://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url)
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/155e4ab0-9cc3-4124-ad50-f069f0f3212b) [verify](hhttps://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url)  [Credly](https://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_ur
 
  ## Credentials are reserved and provided by Credly.
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/b7705242-4ca4-452d-8467-68775dc0e881)
