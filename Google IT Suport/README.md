@@ -46,3 +46,10 @@ Examples of virtual assessments include Assembling a Computer, Networking simula
 * Command-Line Interface
 * Directory Service
 * Lightweight Directory Access Protocol (LDAP)
+
+## NOTE
+
+By enrolling in Google courses o, learners acknowledge and agree to abide by this academic policy. Upholding academic integrity is essential for maintaining the quality and credibility of the learning experience for all participants.
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/28601be5-2852-4df5-a715-77750f5cbe8e)
+
