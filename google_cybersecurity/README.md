@@ -37,3 +37,10 @@ Each directory holds the files for each of the courses in the certificate and th
   6. Sound the Alarm: Detection and Response
   7. Automate Cybersecurity Tasks with Python
   8. Put It to Work: Prepare for Cybersecurity Jobs (No files needed)
+
+## NOTE
+
+By enrolling in Google courses o, learners acknowledge and agree to abide by this academic policy. Upholding academic integrity is essential for maintaining the quality and credibility of the learning experience for all participants.
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/28601be5-2852-4df5-a715-77750f5cbe8e)
+
