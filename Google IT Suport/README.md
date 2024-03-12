@@ -6,10 +6,10 @@
 
 
 
-![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/155e4ab0-9cc3-4124-ad50-f069f0f3212b) [verify](https://www.credly.com/badges/88642f64-f248-45aa-839f-505d9ed07f15/public_url)
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/155e4ab0-9cc3-4124-ad50-f069f0f3212b) [verify](hhttps://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url)
 
 
-You can verify my certificate of completion on [Credly](https://www.credly.com/badges/88642f64-f248-45aa-839f-505d9ed07f15/public_url) or [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/28JMVN9XTNKB).
+You can verify my certificate of completion on [Credly](https://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url) or [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/28JMVN9XTNKB).
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/a1f62eea-f6be-4d9d-af72-a785a93b5a4c)
 
 * This repository written for reference and self-documentation purposes
