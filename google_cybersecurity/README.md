@@ -1,10 +1,15 @@
 # Google Cybersecurity Professional Certificate
 
-![Certificate of completion for Google Cybersecurity Professional Certificate for Connor England](CE_GoogleCybersecurity_Cert_2023.jpg)
 
-This repo holds all of the projects, notes, and write-ups I have done while completing the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/).
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/f083e046-3a15-4aff-8056-78ed5729701f) [Verify](https://www.credly.com/earner/earned/badge/67e18e0b-4c54-4522-b031-af0ebce9d2c1)
 
-You can verify my certificate of completion on [Credly](https://www.credly.com/badges/c1fcbf92-630f-475f-a826-5b85e19ac881/public_url) or [Coursera](https://coursera.org/verify/professional-cert/MHYT3ETSGDMG).
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/2843701c-2169-42a4-ba87-fe1ccaa4321a)
+
+
+This repo holds all of the projects, notes, and write-ups I have done while completing the [Google Cybersecurity Professional Certificate]
+
+You can verify my certificate of completion on [Credly](https://www.credly.com/earner/earned/badge/67e18e0b-4c54-4522-b031-af0ebce9d2c1) or [Coursera](https://www.coursera.org/account/accomplishments/specialization/NZZ5WQUSP3ZH).
 
 In this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers. 
 
