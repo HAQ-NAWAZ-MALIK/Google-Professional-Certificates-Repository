@@ -5,6 +5,14 @@ Welcome to my comprehensive repository showcasing the journey through Google's P
 
 ## Certificates Overview 📜
 
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/0f0d7562-1489-4476-b67b-e9743cf5c577)
+[Verify Credll](https://www.credly.com/earner/earned/badge/61e67dac-e3d6-42c1-a3a3-527bd85e75d0)
+
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/4be475cf-0541-4ae0-9295-5191c7716fb4)
+
+[Verify Cousera](https://www.coursera.org/account/accomplishments/specialization/DLKC72TY2XSU)
+
 IT Support Professional Certificate: An entry into the IT world, focusing on troubleshooting, customer service, networking, operating systems, system administration, and security.
 
 IT Automation Professional Certificate: A deep dive into automating IT tasks using Python, enhancing efficiency and scalability.
