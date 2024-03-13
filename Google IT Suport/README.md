@@ -6,12 +6,14 @@
 
 
 
-![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/155e4ab0-9cc3-4124-ad50-f069f0f3212b) [verify](hhttps://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url)  [Credly](https://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_ur
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/155e4ab0-9cc3-4124-ad50-f069f0f3212b) [verify](hhttps://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url) 
+[Credly](https://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url)
 
  ## Credentials are reserved and provided by Credly.
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/b7705242-4ca4-452d-8467-68775dc0e881)
 
 You can verify my certificate of completion on [Credly](https://www.credly.com/badges/6eaac2f7-7b30-446a-897d-a07861c8cf7c/public_url) or [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/28JMVN9XTNKB).
+
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/a1f62eea-f6be-4d9d-af72-a785a93b5a4c)
 
 
