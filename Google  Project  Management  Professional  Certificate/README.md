@@ -1,23 +1,27 @@
-<!--
- * @Author: BDFD
- * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-07-14 12:37:52
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \Coursera_Google-Project-Management\README.md
--->
+
 
 Descritpion Template
 Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
 
 Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
 
-<a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Coursera_Google-Project-Management.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Google-Project-Management?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+
+## Certificates Overview 📜
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/0f0d7562-1489-4476-b67b-e9743cf5c577)
+[Verify Credll](https://www.credly.com/earner/earned/badge/61e67dac-e3d6-42c1-a3a3-527bd85e75d0)
+
+
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/4be475cf-0541-4ae0-9295-5191c7716fb4)
+
+[Verify Cousera](https://www.coursera.org/account/accomplishments/specialization/DLKC72TY2XSU)
+
+ ## Credentials are reserved and provided by Credly.
+![image](https://github.com/HAQ-NAWAZ-MALIK/Google-Professional-Certificates-Repository/assets/86514900/b7705242-4ca4-452d-8467-68775dc0e881)
+
+
+
+
 
 <!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" /> -->
 
@@ -77,12 +81,3 @@ Total Hours: ~140 Hrs
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### Feel Free To Fork And Report If You Find Any Issue :)
-
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/bdfd?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
-
-</div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->
